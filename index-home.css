@@ -1,0 +1,6 @@
+@import "./global-styles/reset.css";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap%27");
+@import './styles-home/header.css';
+@import './styles-home/main.css';
+@import './styles-home/media.css';
+@import './styles-home/goblal.css';
